@@ -1,11 +1,35 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on various teaching javascript projects, mainly in the framework of teaching at RS school (https://rs.school/)
+- 🌱 I’m currently learning javascript
+- 🤔 I’m looking for help starting a career or getting an internship
+- 💬 Ask me anything 😃
+- 📫 How to reach me: m1r1k25@mail.ru || https://t.me/m1r1k25
+
+anguages and Tools:
+Visual Studio Code
+
+HTML5
+
+CSS3
+
+Sass
+
+JavaScript
+
+React
+
+Git
+
+GitHub
+
+
 <!--
 **m1r1k25/m1r1k25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I am currently working on various teaching javascript projects, mainly in the framework of teaching at RS school
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
